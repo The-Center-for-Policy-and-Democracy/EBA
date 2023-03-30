@@ -1,5 +1,5 @@
 # E-BEA
-Emotional-Belief Coding Analysis
+Emotional-Belief Expresion Coding Analysis
 
 
 Emotional-Belief Expression Analysis (E-BEA) is a coding method used in Advocacy Coalition Framework studies to better understand the emotions and beliefs of coalitions. It is a variation of past ACF belief coding and utilizes Philip Liefeld's [Discourse Network Analyzer](https://github.com/leifeld/dna).
