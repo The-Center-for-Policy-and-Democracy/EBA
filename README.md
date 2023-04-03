@@ -1,4 +1,4 @@
-# E-BEA
+# EBA
 Emotional-Belief Expresion Coding Analysis
 
 
